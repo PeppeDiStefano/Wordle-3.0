@@ -1,0 +1,8 @@
+hostname=localhost
+port=6789
+multicastPort=5555
+multicastHost=226.226.226.226
+registerName=RMI_REGISTER
+registryPort=6666
+callbackName=RMI_CALLBACK
+callbackPort=5000

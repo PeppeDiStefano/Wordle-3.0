@@ -1,0 +1,11 @@
+port=6789
+multicastPort=5555
+multicastHost=226.226.226.226
+registerName=RMI_REGISTER
+registryPort=6666
+nThread=15
+keepAliveTime=60000
+terminationTime=15000
+timeBetweenWords=120000
+callbackName=RMI_CALLBACK
+callbackPort=5000
