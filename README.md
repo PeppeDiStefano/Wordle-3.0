@@ -1,2 +1,3 @@
 # Wordle-3.0
-class project corso di Reti di calcolatori e Laboratorio AA 2022/23
+Class project corso di Reti di calcolatori e Laboratorio AA 2022/23. 
+More information can be found in the attached relation.
